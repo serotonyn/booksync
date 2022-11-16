@@ -1,0 +1,16 @@
+## To install
+
+Run `yarn` or `npm install`
+
+## To start
+
+Run `yarn start` or `npm run start`
+
+## To gen the map.json:
+
+python -m aeneas.tools.execute_task '.\charlie\ch1\ch1.mp3' .\charlie\ch1\after.html "task_language=eng|os_task_file_format=json|os_task_file_smil_audio_ref=ch1.mp3|os_task_file_smil_page_ref=after.html|is_text_type=unparsed|is_text_unparsed_id_regex=span[0-9]+|is_text_unparsed_id_sort=numeric" map.json
+
+## To use:
+
+- click on the sentences.
+- Or use Enter to play/pause

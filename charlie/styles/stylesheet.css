@@ -1,0 +1,311 @@
+@font-face
+{
+	font-family: "Charis";
+	src: url(../fonts/CharisSILR.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "Charis";
+	src: url(../fonts/CharisSILB.ttf);
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face
+{
+	font-family: "Charis";
+	src: url(../fonts/CharisSILI.ttf);
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "Charis";
+	src: url(../fonts/CharisSILBI.ttf);
+	font-style: italic;
+	font-weight: bold;
+}
+body
+{
+     font-family: "Charis";
+     line-height: 1.2em;
+}
+
+.image
+{
+	line-height: 1.2em;
+	text-align: center;
+	margin-top: 1.0em;
+	margin-bottom: 0em;
+}
+.logo
+{
+	line-height: 1.2em;
+	text-align: center;
+	margin-top: 3em;
+	margin-bottom: 0em;
+}
+
+em
+{
+	font-style: italic;
+}
+strong
+{
+	font-weight: bold;
+}
+.publisher
+{
+	font-size:normal;
+	margin-top:8em;
+	margin-bottom:-.1em;
+}
+.pc
+{
+	text-indent	:	0em;
+	text-align	:	center;
+	margin-top	:	0.0em;
+	margin-bottom	:	0.0em;	
+}
+
+.pc3
+{
+	text-indent	:	0em;
+	text-align	:	center;
+	margin-top	:	0em;
+}
+
+.pc1
+{
+	text-indent	:	0em;
+	text-align	:	center;
+	margin-top	:	1em;
+	margin-bottom	:	0em;	
+}
+.pc2
+{
+	text-indent	:	0em;
+	text-align	:	center;
+	margin-top	:	2em;
+	margin-bottom	:	0em;	
+}
+
+hr
+{
+	text-indent	:	0em;
+	text-align	:	center;
+	margin-left	:	3em;
+	margin-top	:	5em;
+	margin-right	:	3em;
+	border		:	1.5px solid black;
+}
+
+
+	.publisher1
+{
+	font-size:medium;
+	margin-top:0.2em;
+	margin-bottom: .5em;
+}
+.author
+{
+	font-size: x-large;
+	margin-top: 1.5em;
+	margin-bottom: 2.0em;
+	text-align: center;
+}
+
+.bkauthor
+{
+	font-size:small;
+	margin-top:2em;
+	margin-bottom:4em;
+}
+
+.cpytxt0
+{
+	font-size:small;
+	margin-top:1em;
+	margin-bottom:-0.1em;
+}
+.cpytxt
+{
+	font-size:small;
+	margin-top:1em;
+	margin-bottom:0.0em;
+	text-align:center;	
+}
+.cpytxt1
+{
+	font-size:small;
+	margin-top:0em;
+	margin-bottom:0em;
+	text-align:center;
+}
+.cpytxt2
+{
+	font-size:small;
+	margin-top:1em;
+	margin-bottom:0.8em;
+	text-align:center;
+}
+.fmtxt
+{
+	font-size:medium;
+	margin-top:2.2em;
+	margin-bottom:3em;
+}
+.fmtxt2
+{
+	font-size:medium;
+	margin-top:-2.8em;
+	margin-bottom:2em;
+}
+.fmtxt1
+{
+	font-size:medium;
+	margin-top:-1.9em;
+	margin-bottom:2em;
+}
+.dedication
+{
+	font-size:medium;
+	margin-top:5em;
+	margin-bottom:8em;
+	text-align:center;
+}
+
+.dedication1
+{
+	font-size:small;
+	margin-top:0.1em;
+	margin-bottom:.2em;
+	margin-left:2em;
+	text-indent:-1em;
+}
+.center
+{
+	font-size:medium;
+	margin-top: 1.5em;
+	margin-bottom: 2em;
+        text-align: center;
+}
+
+.h1
+{
+	font-weight: normal;
+	font-size: x-large;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.h2
+{
+	font-size:large;
+	margin-top: 1.5em;
+	margin-bottom: 2em;
+}
+.h3
+{
+	font-size:large;
+	margin-top: 1.5em;
+	margin-bottom: 2em;
+}
+.h3b
+{
+	font-size:large;
+	margin-top: 1.5em;
+	margin-bottom: 2em;
+	page-break-before:right;
+}
+.paraspaceabove
+{
+	font-size: medium;
+	margin-top: 1.5em;
+	margin-bottom: .2em;
+}
+.pagebreak
+{
+	page-break-before:none;
+}
+.bodytext
+{
+	margin-top: .2em;
+	margin-bottom: .2em;
+	text-indent: 1.1em;
+}
+.bodytext1
+{
+	margin-top: .2em;
+	margin-bottom: 1em;
+	text-indent: 1.1em;
+}
+.normal
+{
+	margin-top: 1.5em;
+	margin-bottom: .2em;
+}
+.normal1
+{
+	margin-top: 2em;
+	margin-bottom: .6em;
+}
+.bodytext1
+{
+	margin-top: 2em;
+	margin-bottom: .2em;
+	text-indent: 1.1em;
+}
+.small
+{
+	font-size: small;
+}
+.big
+{
+	font-size: large;
+}
+a
+{
+	text-decoration: none;
+}
+svg
+{
+	height: 100%;
+	width: 100%;
+
+}
+.figure
+{
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+SPAN.weblink
+{
+	text-decoration: none;
+}
+.poemline
+{
+        font-size:medium;
+        text-indent:2.5em;
+        margin-top:0.25em;
+        margin-bottom:0.25em;
+        margin-left:2em;
+}
+.poemline1
+{
+        font-size:medium;
+        text-indent:-1.5em;
+        margin-top:1em;
+        margin-bottom:0.25em;
+        margin-left:2em;
+}
+.isbn
+{
+        front-size: medium;
+}
+
+.smallcaps
+{
+        font-size: xx-small;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "start": "yarn parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}

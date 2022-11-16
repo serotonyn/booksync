@@ -1,0 +1,17 @@
+# common
+.DS_STORE
+
+/.vscode/
+
+**/__pycache__/
+*.py[co]
+
+*.egg-info
+
+# project specific
+/tests/resources/*/audio
+/tests/resources/*/out
+/tests/resources/*/smil
+node_modules
+dist
+.parcel-cache
